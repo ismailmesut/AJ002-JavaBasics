@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JavaLearning"
+rootProject.name = "JavaBasics"
 include ':app'

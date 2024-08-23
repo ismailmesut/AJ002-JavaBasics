@@ -1,4 +1,4 @@
-package com.ismailmesutmujde.javalearning;
+package com.ismailmesutmujde.javabasics;
 
 import org.junit.Test;
 

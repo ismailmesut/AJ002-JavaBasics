@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ismailmesutmujde.javalearning'
+    namespace 'com.ismailmesutmujde.javabasics'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.ismailmesutmujde.javalearning"
+        applicationId "com.ismailmesutmujde.javabasics"
         minSdk 24
         targetSdk 34
         versionCode 1
